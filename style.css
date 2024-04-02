@@ -12,8 +12,8 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 100px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 140px;
+    margin-right: 140px;
     padding: 10px;
 }
 
@@ -71,11 +71,16 @@ ul{
     gap: 20px;
 }
 
-.containTitle{
+.container2{
+    margin:50px;
+    text-align: center;
+}
+
+.contain2Title{
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
-    text-align: center;
+    margin:50px;
 }
 
 .boxes{
@@ -83,8 +88,7 @@ ul{
     font-size: 18px;
     color: #1f2937;
     justify-content: center;
-    margin-bottom: 150px;
-    margin-top: 100px;
+    gap: 40px;
 }
 
 .square {
@@ -94,24 +98,23 @@ ul{
     height: 150px;
   }
 
-span{
-    color: #E5E7EB;
-}
-
 .container3{
     background: #E5E7EB;
-    font-size: 36px;
-    font-style: italic;
-    padding: 10px;
-    white-space: initial;
-
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote{
-    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quoteAuthor{
+    color: #1f2937;
     font-weight: bold;
-    justify-content: flex-end;
-    padding: 10px;
+    align-self: flex-end;
 }
 
 .container4{
