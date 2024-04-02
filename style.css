@@ -14,6 +14,8 @@
     background-color: #1f2937;
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 100px;
+    padding: 10px;
 }
 
 .header_logo{
@@ -24,30 +26,36 @@
 
 .Headerbody{
     display:flex;
-    justify-content: space-between;
-    margin-left: 100px;
-    margin-right: 100px;
+    justify-content: space-around;
+    padding: 100px;
 }
 
 .title{
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
+    max-width: 444px;
 }
 
 .titlesub{
     font-size: 18px;
+    max-width: 444px;
     color: #E5E7EB;
 }
 
+button{
+    background-color: #3882F6;
+    color: white;
+    margin: 4px 4px;
+    border: none;
+    font-size: 20px;
+    padding: 0 4px;
+    border-radius: 10px;
+}
 
 img {
     max-width: 300px;
     max-height: 200px;
-}
-
-.placeholder{
-    align-items: flex-end;
 }
 
 a {
@@ -58,6 +66,29 @@ a {
 ul{
     display: flex;
     list-style: none;
+    gap: 10px;
+}
+
+.containTitle{
+    color: black;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.boxes{
+    display: flex;
+    font-size: 18px;
+    color: black;
+}
+.square {
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+  }
+
+.container3{
+    background: #E5E7EB;
 }
 
 .footer {
