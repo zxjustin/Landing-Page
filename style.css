@@ -11,10 +11,9 @@
 .Headertop{
     display: flex;
     justify-content: space-between;
-    background-color: #1f2937;
-    margin-left: 100px;
-    margin-right: 100px;
     margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
     padding: 10px;
 }
 
@@ -27,35 +26,38 @@
 .Headerbody{
     display:flex;
     justify-content: space-around;
-    padding: 100px;
+    padding: 20px;
+    margin-bottom: 50px;
+    
 }
 
 .title{
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #f9faf8;
-    max-width: 444px;
+    max-width: 300px;
 }
 
 .titlesub{
     font-size: 18px;
-    max-width: 444px;
+    max-width: 300px;
     color: #E5E7EB;
 }
 
 button{
     background-color: #3882F6;
     color: white;
-    margin: 4px 4px;
     border: none;
-    font-size: 20px;
-    padding: 0 4px;
     border-radius: 10px;
+    width: 100px;
+    font-weight: bold;
+    height: 25px;
 }
 
 img {
-    max-width: 300px;
     max-height: 200px;
+    margin-left: 40px;
+    margin-bottom: 40px;
 }
 
 a {
@@ -66,31 +68,67 @@ a {
 ul{
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 20px;
 }
 
 .containTitle{
-    color: black;
+    color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
+    text-align: center;
 }
 
 .boxes{
     display: flex;
     font-size: 18px;
-    color: black;
+    color: #1f2937;
+    justify-content: center;
+    margin-bottom: 150px;
+    margin-top: 100px;
 }
+
 .square {
     border: 5px solid #3882F6;
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
   }
+
+span{
+    color: #E5E7EB;
+}
 
 .container3{
     background: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    padding: 10px;
+    white-space: initial;
+
 }
 
+.quote{
+    display: flex;
+    font-weight: bold;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.container4{
+    background-color: #3882F6;
+    color: #f9faf8;
+}
+
+.Leftcontainer4{
+    display: flex;
+    background-color: red;
+}
+
+.Rightcontainer4{
+    display: flex;
+    background-color: red;
+    justify-content: flex-end;
+}
 .footer {
     display: flex;
     align-items: center;
