@@ -118,20 +118,27 @@ ul{
 }
 
 .container4{
+    padding: 88px 100px;
+}
+
+.call-action{
     background-color: #3882F6;
+    border-radius: 4px;
     color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    padding: 33px 77px;
 }
 
-.Leftcontainer4{
-    display: flex;
-    background-color: red;
+.call-action-button{
+    background-color: #3882F6;
+    border-radius: 4px;
+    color: #f9faf8;
+    border-radius: 8px;
+    border: 2px solid white;
+    padding: 5px 20px;
 }
 
-.Rightcontainer4{
-    display: flex;
-    background-color: red;
-    justify-content: flex-end;
-}
 .footer {
     display: flex;
     align-items: center;

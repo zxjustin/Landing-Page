@@ -1,0 +1,53 @@
+[33mcommit 341566f4277d1a7b1d8e7fd5015b9a761d7fa7a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Wed Apr 3 00:16:51 2024 +0800
+
+    added display flex to container 3, align-self and direction to column
+
+[33mcommit 0849f5871686c7b2d648c947ec7ebdd2f0efa279[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Wed Apr 3 00:03:35 2024 +0800
+
+    Added div and spans to container 3 & 4, touched on container 2 boxes and edited the paddings, margins, fonts
+
+[33mcommit b316ec38bfa151541bd9a6f1aa9807420ed4ec7a[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Tue Apr 2 16:44:12 2024 +0800
+
+    Created boxes for the second part of the container to display flex
+
+[33mcommit b5388d4e2e61027ee7bd7a3a4ed02e9611d96599[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Tue Apr 2 15:47:22 2024 +0800
+
+    Fine tune Headertop and Headerbody
+
+[33mcommit d9b6a5ce037e3e9a152d90687f4c70cdb711a34c[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Tue Mar 26 18:34:01 2024 +0800
+
+    Added Headertop and headerbody to seperate the header class
+
+[33mcommit 320d8a80475f4f82aba5487cf319f4ea72e5addb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Tue Mar 26 15:43:57 2024 +0800
+
+    Set up HTML Containers layout
+
+[33mcommit 7fb58a96f209639dece3aa88a77d8fdd899525d9[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Tue Mar 26 15:40:37 2024 +0800
+
+    Adding containers for html layout
+
+[33mcommit 4d9fdccaa81ff16893f8a0f57fa0570acdc8697d[m
+Author: zxJustin <zxjustin@hotmail.com>
+Date:   Sat Mar 16 20:36:17 2024 +0800
+
+    index & style
+
+[33mcommit f7a4ab6d0930402abdcc37ae6675a921f992b247[m
+Author: zxjustin <91054834+zxjustin@users.noreply.github.com>
+Date:   Sat Mar 16 20:17:16 2024 +0800
+
+    Initial commit
