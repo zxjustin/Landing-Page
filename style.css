@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 .header{
     color: #f9faf8;
     background-color: #1f2937;
@@ -6,10 +11,39 @@
 .Headertop{
     display: flex;
     justify-content: space-between;
+    background-color: #1f2937;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header_logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
 }
 
 .Headerbody{
     display:flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.titlesub{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+img {
+    max-width: 300px;
+    max-height: 200px;
 }
 
 .placeholder{
@@ -18,16 +52,12 @@
 
 a {
     text-decoration: none;
+    color: white;
   }
 
 ul{
     display: flex;
     list-style: none;
-    font-size: 18px;
-    color: #E5E7EB;
-    margin: 16px;
-    padding: 16px;
-    gap: 16px
 }
 
 .footer {
