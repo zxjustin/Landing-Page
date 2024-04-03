@@ -88,7 +88,11 @@ ul{
     font-size: 18px;
     color: #1f2937;
     justify-content: center;
-    gap: 40px;
+    gap: 1px;
+}
+
+.box{
+    max-width: 200px;
 }
 
 .square {
@@ -123,16 +127,16 @@ ul{
 
 .call-action{
     background-color: #3882F6;
-    border-radius: 4px;
+    border-radius: 8px;
     color: #f9faf8;
     display: flex;
     justify-content: space-around;
-    padding: 33px 77px;
+    padding: 55px 77px;
+    font-size: 18px;
 }
 
 .call-action-button{
     background-color: #3882F6;
-    border-radius: 4px;
     color: #f9faf8;
     border-radius: 8px;
     border: 2px solid white;
